@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá! 👋 Eu sou o Vinicius<br>
+  Olá! 👋<br>
   <font color="#00bfff">Sou desenvolvedor Delphi FMX/VCL</font><br>
 </h1>
 
@@ -43,7 +43,7 @@ Sou **Analista de Sistemas e Dados** com mais de 15 anos de experiência, especi
 
 ## 💼 O que estou buscando?
 
-Estou ativamente **aberto a novas oportunidades** como **Desenvolvedor Delphi**, **Arquiteto de Software**, **Tech Lead** e etc... Busco projetos desafiadores onde eu possa agregar valor desde o primeiro dia com código de qualidade e boas práticas.
+Estou ativamente **aberto a novas oportunidades** como **Analista de Sistemas**, **Desenvolvedor Delphi** e outras atribuições na área. Busco projetos desafiadores onde eu possa agregar valor desde o primeiro dia com código de qualidade e boas práticas.
 
 ## 📫 Vamos conversar!
 
