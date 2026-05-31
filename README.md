@@ -13,7 +13,7 @@ Sou **Analista de Sistemas e Dados** com mais de 15 anos de experiência, especi
 
 ---
 
-## 🧰 Meu Arsenal Técnico
+## 🧰 Ferramentas que utilizo
 <p align="center">
   <img src="https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi"/>
   <img src="https://img.shields.io/badge/FireMonkey-EE1F35?style=for-the-badge&logo=delphi&logoColor=white" alt="FireMonkey" />
@@ -26,18 +26,18 @@ Sou **Analista de Sistemas e Dados** com mais de 15 anos de experiência, especi
   <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API"/>
 </p>
 
-## 📌 Projetos em Destaque (Ecossistema KAFS)
+## 📌 Amostra de trabalhos (Ecossistema KAFS)
 
 > Uma suíte de componentes e bibliotecas para integração de sistemas Delphi com MongoDB, focada em resiliência e controle.
 
 #### 🌐 [KAFSMongoAPI](https://github.com/ViniciusdoAmaralReis/KAFSMongoAPI)
-Servidor **DataSnap** para persistência no MongoDB Atlas com endpoints **RESTful**, demonstrando minha capacidade de arquitetar soluções de back-end escaláveis.
+> Servidor **DataSnap** para persistência no MongoDB Atlas com endpoints **RESTful**, demonstrando minha capacidade de arquitetar soluções de back-end escaláveis.
 
 #### 🔌 [TKAFSConexaoMongo](https://github.com/ViniciusdoAmaralReis/TKAFSConexaoMongo) & [DataSnap](https://github.com/ViniciusdoAmaralReis/TKAFSConexaoDataSnap)
-Componentes **Delphi/FireMonkey** com lógica robusta de **reconexão automática** e fallback, provando meu compromisso com a experiência do usuário e a confiabilidade do sistema.
+> Componentes **Delphi/FireMonkey** com lógica robusta de **reconexão automática** e fallback, provando meu compromisso com a experiência do usuário e a confiabilidade do sistema.
 
 #### 🛠️ [uKAFSMongo](https://github.com/ViniciusdoAmaralReis/uKAFSMongo)
-Biblioteca de **CRUD** para MongoDB com sistema de *cooldown* para otimização de uso e custos, evidenciando meu pensamento em engenharia de software financeira e eficiente.
+> Biblioteca de **CRUD** para MongoDB com sistema de *cooldown* para otimização de uso e custos, evidenciando meu pensamento em engenharia de software financeira e eficiente.
 
 ---
 
