@@ -24,8 +24,10 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 </p>
 
-Sou **Analista de Sistemas e Dados**, especializado em construir soluções corporativas robustas e de alta performance. Minha paixão é criar ecossistemas de software coesos, que resolvem problemas reais de integração, persistência e resiliência.
+<p align="center">
+Especializado em construir soluções corporativas robustas e de alta performance. Minha paixão é criar ecossistemas de software coesos, que resolvem problemas reais de integração, persistência e resiliência.
 Estou ativamente **aberto a novas oportunidades**. Busco projetos desafiadores onde eu possa agregar valor desde o primeiro dia com código de qualidade e boas práticas.
+</p>
 
 ## 📫 Vamos conversar!
 
