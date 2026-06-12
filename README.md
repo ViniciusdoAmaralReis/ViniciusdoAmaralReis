@@ -25,8 +25,12 @@
 </p>
 
 <p align="center">
-Especializado em construir soluções corporativas robustas e de alta performance. Minha paixão é criar ecossistemas de software coesos, que resolvem problemas reais de integração, persistência e resiliência.
-Estou ativamente aberto a novas oportunidades. Busco projetos desafiadores onde eu possa agregar valor desde o primeiro dia com código de qualidade e boas práticas.
+Especialista em criar soluções de
+integração e persistência, com foco em código limpo, performance e experiência do
+usuário. Posso atuar na manutenção e modernização de sistemas legados e/ou novos
+projetos, atuando na refatoração de código, atualização de versões de
+frameworks/bancos de dados e migração para arquiteturas mais recentes, garantindo
+aumento de performance e redução da dívida técnica.
 </p>
 
 ## 📫 Vamos conversar!
