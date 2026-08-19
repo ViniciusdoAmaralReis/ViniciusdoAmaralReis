@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&logo=github&logoColor=white" alt="Open to Work" />
-</p>
 
 <h1 align="center">
   Olá! 👋<br>
